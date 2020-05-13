@@ -1,5 +1,5 @@
 {
-  "name": "@namespace/analysisDetail",
+  "name": "@hk-componentPackage/analysisDetail",
   "version": "0.0.1",
   "dependencies": {
     "bcore": "0.0.18",
